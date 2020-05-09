@@ -1,0 +1,33 @@
+/* BootStrap, Foundation, Grade 960  cool*/
+
+/* bootstrap media queries */
+@media(max-width: 320px){       /* Mobile and Tablet rules */
+    p{
+        color: green
+    }
+}
+
+@media(min-width: 320px){       /* Small Screens rules */
+    p{
+        color: green
+    }
+}
+
+@media(min-width: 320px) and (max-width: 991px){       /* Small Screens rules */
+    p{
+        color: green
+    }
+}
+
+@media(min-width: 992px){       /* Medieum Screens rules */
+    p{
+        color: green
+    }
+}
+
+@media(min-width: 1200px){       /* Large Screens rules */
+    p{
+        color: green
+    }
+}
+
